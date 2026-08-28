@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manuutechy.github.io/resources-pyybbe/sitemap.xml
